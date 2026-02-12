@@ -88,7 +88,7 @@ Vendor-Sales-Performance-Analysis/
 Place the raw CSV files inside the `data/` directory.
 
 For demonstration purposes, sample datasets are provided: 
-sample_data/
+`sample_data/`
 
 You may copy these into the `data/` folder if you do not have the full dataset.
 
